@@ -1,0 +1,45 @@
+body {
+    background-color: #8c8c9d;
+    color:white;
+    text-emphasis-color: white;
+    text-align: center;
+
+}
+h1 {
+    background-color: red;
+    font: outline;
+    align-content: center;
+    border: 3px black solid;
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+
+}
+h2 {
+    background-color: purple;
+    font-size: medium;
+    align-content: center;
+    margin: 20px;
+    padding: 10px;
+    
+    
+}
+h3 {
+    background-color: #9c9f84;
+    font: outline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 15px;
+
+}
+img {
+    background-color:#e5e4d7;
+    width: 350px;
+    height: 300px;
+    border: 2px rebeccapurple solid;
+    align:right;
+}
+README.md {
+    background-color: #ffff00;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
