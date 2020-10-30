@@ -1,1 +1,2 @@
 # my-first-html
+Hi,My Name is Desta Mulualem I was born in***** I grow up in Ethiopian/Tigray I complited my elemenetary and secondary school in tigray region I had worked at capital city of Ethiopia in Addis Ababa for about 7 years in different aspects. So This is my first html full stack flex coding bootcamp I hope at the end of the course I would have able to do efficinet and effective skills.
